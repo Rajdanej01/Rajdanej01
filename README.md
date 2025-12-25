@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/rajdanej01/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_&_Collaborate-8b5cf6?style=flat&logo=linkedin&logoColor=white&labelColor=1e293b&color=8b5cf6" alt="LinkedIn" />
   </a>
-  <a href="https://rajdane.online">
+  <a href="https://rajdanej.online">
     <img src="https://img.shields.io/badge/Portfolio-Live_Projects-2dd4bf?style=flat&logo=firefox-browser&logoColor=white&labelColor=1e293b&color=2dd4bf" alt="Portfolio" />
   </a>
 
