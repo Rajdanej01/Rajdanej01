@@ -66,23 +66,33 @@ While many focus on the complexity of the code, I focus on the **clarity of the 
 
 *My toolkit is curated to solve specific classes of business problems.*
 
----
 <br>
 
 ---
 
-### 🧩 Project Ecosystem
-*Access the centralized codebase across my 5 core technical pillars.*
-
 <div align="center">
 
-| **Technical Intelligence** <br> *(Engineering & ML)* | **Strategic Intelligence** <br> *(Business & Analytics)* |
-| :---: | :---: |
-| <a href="https://github.com/Rajdanej01/machine-learning-lab"><img src="https://img.shields.io/badge/🧪_Model_Zoo-Machine_Learning_Lab-2dd4bf?style=for-the-badge&logo=scikit-learn&logoColor=1e293b" width="200"/></a> | <a href="https://github.com/Rajdanej01/strategic-business-intelligence"><img src="https://img.shields.io/badge/🌍_Strategy-Business_Intelligence-8b5cf6?style=for-the-badge&logo=tableau&logoColor=white" width="200"/></a> |
-| <a href="https://github.com/Rajdanej01/data-engineering-pipelines"><img src="https://img.shields.io/badge/⚙️_Automation-Data_Pipelines-2dd4bf?style=for-the-badge&logo=apache-airflow&logoColor=1e293b" width="200"/></a> | <a href="https://github.com/Rajdanej01/marketing-customer-analytics"><img src="https://img.shields.io/badge/📈_ROI_&_Growth-Marketing_Analytics-8b5cf6?style=for-the-badge&logo=google-analytics&logoColor=white" width="200"/></a> |
-| | <a href="https://github.com/Rajdanej01/experimental-analysis-frameworks"><img src="https://img.shields.io/badge/🔬_Testing-A%2FB_Experiments-8b5cf6?style=for-the-badge&logo=scipy&logoColor=white" width="200"/></a> |
+# 📊 Customer Churn Prediction Engine
+### *A Proactive Retention System Powered by Logistic Regression & Streamlit*
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Sklearn-Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
+
+<p align="center">
+  <img src="results/Logistic Regression - ROC Curve.png" width="45%" alt="ROC Curve"/>
+  <img src="results/Logistic Regression - Confusion Matrix.png" width="45%" alt="Confusion Matrix"/>
+</p>
 
 </div>
+
+---
+
+## 💼 Business Context
+**The Problem:** Customer attrition (churn) is the silent killer of subscription businesses. It costs **5x more** to acquire a new customer than to retain an existing one. Reactive retention (saving a customer *after* they cancel) is often too late.
+
+**The Solution:** This project moves from *reactive* to *proactive*. By analyzing behavioral data (tenure, contract type, payment methods), this model identifies customers at high risk of churning **before** they leave, allowing the Success Team to intervene with targeted offers.
 
 <br>
 
