@@ -66,33 +66,37 @@ While many focus on the complexity of the code, I focus on the **clarity of the 
 
 *My toolkit is curated to solve specific classes of business problems.*
 
+---
+
 <br>
 
----
+# 🧪 Machine Learning Lab
 
-<div align="center">
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)
 
-# 📊 Customer Churn Prediction Engine
-### *A Proactive Retention System Powered by Logistic Regression & Streamlit*
+## 📖 Overview
+A centralized "Model Zoo" containing implementations of classical machine learning algorithms and deep learning experiments. This repository serves as a technical sandbox to benchmark algorithmic efficiency, test feature engineering techniques, and solve specific prediction problems.
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-Machine_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)
+## 📂 Project Catalog
 
-<p align="center">
-  <img src="results/Logistic Regression - ROC Curve.png" width="45%" alt="ROC Curve"/>
-  <img src="results/Logistic Regression - Confusion Matrix.png" width="45%" alt="Confusion Matrix"/>
-</p>
+| Project Directory | Algorithms / Models | Business Application |
+| :--- | :--- | :--- |
+| **[`retail-demand-forecasting`](./retail-demand-forecasting)** | **XGBoost, ARIMA** | Predicting inventory demand to prevent stockouts and reduce carrying costs. |
+| **[`market-basket-analysis`](./market-basket-analysis)** | **Apriori, Association Rules** | Mining transaction data to find product bundles (e.g., "Beer & Diapers"). |
+| **[`fraud-detection-rf`](./fraud-detection-rf)** | **Random Forest** | Identifying anomalous credit card transactions with high precision/recall. |
+| **[`nlp-emotion-classifier`](./nlp-emotion-classifier)** | **LSTM, Transformers** | Classifying customer feedback text into emotional states (Joy, Anger, Neutral). |
+| **[`neural-networks-health`](./neural-networks-health)** | **Keras/TensorFlow** | Predicting early-onset diabetes risk using patient health markers. |
 
-</div>
+## 📊 Performance Benchmarks
+*Selected results from contained projects:*
 
----
-
-## 💼 Business Context
-**The Problem:** Customer attrition (churn) is the silent killer of subscription businesses. It costs **5x more** to acquire a new customer than to retain an existing one. Reactive retention (saving a customer *after* they cancel) is often too late.
-
-**The Solution:** This project moves from *reactive* to *proactive*. By analyzing behavioral data (tenure, contract type, payment methods), this model identifies customers at high risk of churning **before** they leave, allowing the Success Team to intervene with targeted offers.
+| Model | Metric | Score | Notes |
+| :--- | :--- | :--- | :--- |
+| **Fraud Detection** | Precision | **99.2%** | Optimized to minimize False Positives. |
+| **Emotion Classifier** | Accuracy | **88.5%** | Fine-tuned on 10k text samples. |
+| **Demand Forecast** | RMSE | **14.2** | Outperformed baseline moving average by 22%. |
 
 <br>
 
