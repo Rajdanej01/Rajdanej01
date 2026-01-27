@@ -70,33 +70,29 @@ While many focus on the complexity of the code, I focus on the **clarity of the 
 
 <br>
 
-# 🧪 Machine Learning Lab
+### 🧩 Project Ecosystem
+*Direct access to the codebase across my 5 core technical pillars.*
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit_Learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)
+<div align="center">
 
-## 📖 Overview
-A centralized "Model Zoo" containing implementations of classical machine learning algorithms and deep learning experiments. This repository serves as a technical sandbox to benchmark algorithmic efficiency, test feature engineering techniques, and solve specific prediction problems.
+<a href="https://github.com/Rajdanej01/machine-learning-lab">
+<img src="https://img.shields.io/badge/🧪_Model_Zoo-Machine_Learning_Lab-2dd4bf?style=for-the-badge&logo=python&logoColor=1e293b" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/marketing-customer-analytics">
+<img src="https://img.shields.io/badge/📈_ROI_&_Retention-Marketing_Analytics-8b5cf6?style=for-the-badge&logo=google-analytics&logoColor=white" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/strategic-business-intelligence">
+<img src="https://img.shields.io/badge/🌍_Strategy-Business_Intelligence-2dd4bf?style=for-the-badge&logo=tableau&logoColor=1e293b" height="30"/>
+</a>
+<br>
+<a href="https://github.com/Rajdanej01/data-engineering-pipelines">
+<img src="https://img.shields.io/badge/⚙️_Automation-Data_Pipelines-8b5cf6?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/experimental-analysis-frameworks">
+<img src="https://img.shields.io/badge/🔬_Testing-Analysis_Frameworks-2dd4bf?style=for-the-badge&logo=scipy&logoColor=1e293b" height="30"/>
+</a>
 
-## 📂 Project Catalog
-
-| Project Directory | Algorithms / Models | Business Application |
-| :--- | :--- | :--- |
-| **[`retail-demand-forecasting`](./retail-demand-forecasting)** | **XGBoost, ARIMA** | Predicting inventory demand to prevent stockouts and reduce carrying costs. |
-| **[`market-basket-analysis`](./market-basket-analysis)** | **Apriori, Association Rules** | Mining transaction data to find product bundles (e.g., "Beer & Diapers"). |
-| **[`fraud-detection-rf`](./fraud-detection-rf)** | **Random Forest** | Identifying anomalous credit card transactions with high precision/recall. |
-| **[`nlp-emotion-classifier`](./nlp-emotion-classifier)** | **LSTM, Transformers** | Classifying customer feedback text into emotional states (Joy, Anger, Neutral). |
-| **[`neural-networks-health`](./neural-networks-health)** | **Keras/TensorFlow** | Predicting early-onset diabetes risk using patient health markers. |
-
-## 📊 Performance Benchmarks
-*Selected results from contained projects:*
-
-| Model | Metric | Score | Notes |
-| :--- | :--- | :--- | :--- |
-| **Fraud Detection** | Precision | **99.2%** | Optimized to minimize False Positives. |
-| **Emotion Classifier** | Accuracy | **88.5%** | Fine-tuned on 10k text samples. |
-| **Demand Forecast** | RMSE | **14.2** | Outperformed baseline moving average by 22%. |
+</div>
 
 <br>
 
