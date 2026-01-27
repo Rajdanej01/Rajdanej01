@@ -67,6 +67,37 @@ While many focus on the complexity of the code, I focus on the **clarity of the 
 *My toolkit is curated to solve specific classes of business problems.*
 
 ---
+<br>
+
+---
+
+### 🧩 Project Ecosystem
+*Direct access to the codebase across my 5 core technical pillars.*
+
+<div align="center">
+
+<a href="https://github.com/Rajdanej01/machine-learning-lab">
+<img src="https://img.shields.io/badge/🧪_Model_Zoo-Machine_Learning_Lab-2dd4bf?style=for-the-badge&logo=python&logoColor=1e293b" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/marketing-customer-analytics">
+<img src="https://img.shields.io/badge/📈_ROI_&_Retention-Marketing_Analytics-8b5cf6?style=for-the-badge&logo=google-analytics&logoColor=white" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/strategic-business-intelligence">
+<img src="https://img.shields.io/badge/🌍_Strategy-Business_Intelligence-2dd4bf?style=for-the-badge&logo=tableau&logoColor=1e293b" height="30"/>
+</a>
+<br>
+<a href="https://github.com/Rajdanej01/data-engineering-pipelines">
+<img src="https://img.shields.io/badge/⚙️_Automation-Data_Pipelines-8b5cf6?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30"/>
+</a>
+<a href="https://github.com/Rajdanej01/experimental-analysis-frameworks">
+<img src="https://img.shields.io/badge/🔬_Testing-Analysis_Frameworks-2dd4bf?style=for-the-badge&logo=scipy&logoColor=1e293b" height="30"/>
+</a>
+
+</div>
+
+<br>
+
+---
 
 ### 📂 Impact Case Studies
 
