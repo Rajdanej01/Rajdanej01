@@ -77,21 +77,21 @@ While many focus on the complexity of the code, I focus on the **clarity of the 
 <br>**The Strategy:** Designed a self-correcting Python ETL pipeline to ingest, normalize, and validate datasets against strict quality schemas.
 <br>**The Outcome:** * 🟢 **40% Reduction** in manual operational hours.
 * 🟢 Eliminated data leakage, significantly improving model training reliability.
-<br>➡️ [**View Architecture**](LINK_TO_REPO)
+<br>➡️ [**View Architecture**]([LINK_TO_REPO](https://github.com/Rajdanej01/data-engineering-pipelines))
 
 #### 2. Marketing ROI & Attribution Modeling
 **The Challenge:** The marketing team was allocating budget based on intuition rather than channel performance, leading to inefficient spend.
 <br>**The Strategy:** Deployed a regression analysis framework to isolate the performance of individual channels and visualized CAC vs. LTV in Power BI.
 <br>**The Outcome:** * 🟢 **22% Increase** in Click-Through Rate (CTR) via targeted reallocation.
 * 🟢 **15% Increase** in Conversion Rate by identifying high-intent user segments.
-<br>➡️ [**View Analysis**](LINK_TO_REPO)
+<br>➡️ [**View Analysis**]([LINK_TO_REPO](https://github.com/Rajdanej01/marketing-customer-analytics))
 
 #### 3. Proactive Churn Detection Engine
 **The Challenge:** Customer attrition was reactive; the business only knew a customer was unhappy *after* they cancelled.
 <br>**The Strategy:** Built a logistic regression model utilizing early-stage behavioral data (usage frequency, support tickets) to flag at-risk accounts.
 <br>**The Outcome:** * 🟢 **85% Accuracy** in identifying potential churners.
 * 🟢 Enabled the Success Team to intervene weeks before cancellation events occurred.
-<br>➡️ [**View Model**](LINK_TO_REPO)
+<br>➡️ [**View Model**]([LINK_TO_REPO](https://github.com/Rajdanej01/marketing-customer-analytics))
 
 ### ⚡ Offline Mode (The Human Behind the Commit)
 
