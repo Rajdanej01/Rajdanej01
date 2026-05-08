@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Raj%20Danej&fontSize=80&fontColor=2dd4bf&fontAlign=50&fontAlignY=35&desc=Data%20Strategy%20%7C%20AIBusiness%20Intelligence%20%7C%20Predictive%20Analytics&descSize=20&descAlign=50&descAlignY=65&color=0f172a&bg=1e293b&animation=fadeIn" alt="Raj Danej Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Raj%20Danej&fontSize=80&fontColor=2dd4bf&fontAlign=50&fontAlignY=35&desc=Data%20Strategy%20%7C%20AI%20Business%20Intelligence%20%7C%20Predictive%20Analytics&descSize=20&descAlign=50&descAlignY=65&color=0f172a&bg=1e293b&animation=fadeIn" alt="Raj Danej Header" width="100%" />
 
   <br>
 
